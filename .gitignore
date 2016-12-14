@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+# Locked & temp files
+*.~*
+*.tmp
